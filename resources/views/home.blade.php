@@ -36,7 +36,7 @@
     <script>
       Highcharts.chart('pie_chart', {
     chart: {
-        type: 'line'
+        type: 'column'
     },
     title: {
         text: 'Grafik Jumlah Mahasiswa Yang Mengikuti Mata Kuliah'
